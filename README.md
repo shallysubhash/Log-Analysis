@@ -1,5 +1,5 @@
 # Log-Analysis
-First project forUdacity Full Stack Nanodegree
+First project for Udacity Full Stack Nanodegree. Database contains newspaper articles, as well as the web server log for the site. In this project, we are building an reporting tool that will use information from the database to discover what kind of articles the site's readers like.
 
 ## Getting Started
 
