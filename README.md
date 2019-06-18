@@ -24,11 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Clone the repository to your local machine
 * Download [this](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip) database.
 * Connect with the database using psql -d news
-### Setting up the Project
 
-* Launch the Vagrant VM using the command vagrant up
-* Log in with vagrant ssh 
-* Connect with the database using psql -d news
 
 ### Running the python code 
 * Run python3 data.py from the command line
