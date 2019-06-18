@@ -15,12 +15,17 @@ First project for Udacity Full Stack Nanodegree. Database contains newspaper art
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
-### Prerequisites
-* Python3
-* Vagrant
-* VirtualBox
-
+### Setting up the project 
+* Install Python3
+* Install Vagrant
+* Install VirtualBox
+* Launch the Vagrant VM using the command vagrant up
+* Log in with vagrant ssh 
+* Clone the repository to your local machine
+* Download [this](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip) database.
+* Connect with the database using psql -d news
 ### Setting up the Project
+
 * Launch the Vagrant VM using the command vagrant up
 * Log in with vagrant ssh 
 * Connect with the database using psql -d news
